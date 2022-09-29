@@ -1,5 +1,4 @@
-import { useState } from 'react';
-import { useEffect} from 'react';
+import { useState, useEffect } from 'react';
 import { ContactList } from './ContactList/ContactList';
 import { Filter } from './Filter/Filter';
 import Form from './Form/Form';
